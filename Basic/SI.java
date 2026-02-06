@@ -11,5 +11,6 @@ public class SI {
         int T = sc.nextInt();
         int SI = (P * R * T) / 100;
         System.out.println("The Simple Interest is :" + SI);
+        sc.close();
     }
 }
