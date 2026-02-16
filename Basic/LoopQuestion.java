@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.math.*;
 
 public class LoopQuestion {
     public static void main(String[] args) {
@@ -63,9 +62,6 @@ public class LoopQuestion {
         // }
 
         //Check if a given number is prime or not?
-        int n=sc.nextInt();
-        int count=0;
-        for()
         sc.close();
     }
 }
