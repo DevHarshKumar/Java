@@ -6,6 +6,7 @@ public class ProductDigit {
         int n = sc.nextInt();
         if (n == 0 || n == 1) {
             System.out.println(n);
+            sc.close();
             return;
         }
         int pro = 1;
