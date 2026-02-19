@@ -28,6 +28,7 @@ public class Armstrong {
         int n = sc.nextInt();
         if (n < 0) {
             System.out.println("Number should not be negative");
+            sc.close();
             return;
         }
         int count = count(n);
